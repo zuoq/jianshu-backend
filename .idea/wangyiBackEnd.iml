@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/filp/whoops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/predis/predis/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/predis/predis/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/symfony/console" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/symfony/finder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/symfony/http-kernel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/symfony/translation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/symfony/browser-kit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/symfony/http-foundation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/symfony/security-core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/symfony/css-selector" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/symfony/dom-crawler" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/symfony/process" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/symfony/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/symfony/routing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/jeremeamia/SuperClosure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/jeremeamia/SuperClosure/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/d11wtq/boris/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/stack/builder/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/nesbot/carbon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/stack/builder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/stack/builder/tests/unit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/laravel/framework/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/patchwork/utf8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/monolog/monolog/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/monolog/monolog/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/classpreloader/classpreloader/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wyBackEnd/vendor/psr/log" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
